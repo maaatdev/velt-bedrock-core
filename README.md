@@ -5,8 +5,6 @@ It provided essential features for PvP servers such as duels, custom items, staf
 
 > ⚠️ **Note:** This project is no longer maintained.
 
----
-
 ## Features
 
 - **Duel System** – Manage player vs. player matches

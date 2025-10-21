@@ -14,7 +14,6 @@ It provided essential features for PvP servers such as duels, custom items, staf
 - **Permanent Night Mode** – Fixed world time for PvP environments
 - **Anti-Cheat System** – Basic protection against cheating
 - **Database Integration** – Persistent data storage
-- 
 ---
 
 
